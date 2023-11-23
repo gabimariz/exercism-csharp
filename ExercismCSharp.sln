@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLevels", "log-levels\Log
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberAnalysis", "phone-number-analysis\PhoneNumberAnalysis.csproj", "{90381A91-DDAC-46AE-8D18-5C46B27A36C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAnalysis", "log-analysis\LogAnalysis.csproj", "{58B817A5-45DD-4537-A223-E2F593954AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "annalyns-infiltration\AnnalynsInfiltration.csproj", "{F16CBC34-A184-4834-A5FB-210087D60E5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{90381A91-DDAC-46AE-8D18-5C46B27A36C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90381A91-DDAC-46AE-8D18-5C46B27A36C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90381A91-DDAC-46AE-8D18-5C46B27A36C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B817A5-45DD-4537-A223-E2F593954AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B817A5-45DD-4537-A223-E2F593954AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B817A5-45DD-4537-A223-E2F593954AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B817A5-45DD-4537-A223-E2F593954AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16CBC34-A184-4834-A5FB-210087D60E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16CBC34-A184-4834-A5FB-210087D60E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16CBC34-A184-4834-A5FB-210087D60E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16CBC34-A184-4834-A5FB-210087D60E5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
